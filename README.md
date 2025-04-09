@@ -1,5 +1,7 @@
 # CyberScanners-WAF-Checker
 
+# 𝐂𝐘𝐁𝐄𝐑 𝐒𝐂𝐀𝐍𝐍𝐄𝐑𝐒 𝐇𝐀𝐂𝐊𝐈𝐍𝐆 𝐓𝐄𝐑𝐌𝐔𝐗 𝐖𝐀𝐅-𝐂𝐇𝐄𝐂𝐊𝐄𝐑.ᴘᴄ ᴏʀ ᴍᴏʙɪʟᴇ
+
 TERMUX INSTALL
 
 $ pkg update && pkg upgrade
